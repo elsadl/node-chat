@@ -1,2 +1,5 @@
-# node-chat
-exercice de cours : chat avec socket.io + node.js
+# Chat
+
+Un petit chat basé sur Node.js et socket.io
+
+https://com-elsa-nodechat.herokuapp.com/
