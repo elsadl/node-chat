@@ -1,4 +1,4 @@
-# Chat
+# node chat
 
 Un petit chat basé sur Node.js et socket.io
 
